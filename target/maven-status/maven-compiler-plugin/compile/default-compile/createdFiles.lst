@@ -1,0 +1,16 @@
+utils\Constants.class
+enums\PaymentType.class
+selenide\components\LoginPopup.class
+selenide\locators\AsusRogLocators.class
+selenide\pages\LaptopPage.class
+selenide\locators\LaptopPcTabletLocators.class
+selenide\pages\LaptopPcTabletPage.class
+enums\DeliveryStreet.class
+selenide\pages\ProfilePage.class
+utils\UtilsMethod.class
+selenide\locators\LaptopsLocators.class
+selenide\locators\HomePageLocators.class
+enums\LaptopName.class
+selenide\locators\ProfileLocators.class
+selenide\locators\CheckoutLocators.class
+selenide\pages\StylusHomePage.class
