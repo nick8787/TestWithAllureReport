@@ -46,17 +46,15 @@
 ```
 
 3. In package "resources" - create `allure.properties` to specify a folder for the results.
-* Add `allure.report.directory=target/allure-report`
+* Add `allure.results.directory=target/allure-results`
 * Add in package "target" create directory `allure-results`
 4. In right menu Maven "m" need to install Allure - Plugins - allure - allure:install - allure:report
 
 ## 🚀Getting started:
 
-* `mvn test` - to start the test
-<br>Maybe folder `allure-results` will appear in the project root, drag and drop it into package "target".
+* `mvn clean test` - to start the test
 
-
-* `mvn allure:serve` - to generate a report using one of the following command:
+* `mvn allure:serve` - to generate a report using one of the following command
 
 ## 🔗Additional:
 
