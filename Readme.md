@@ -48,7 +48,7 @@
 3. In package "resources" - create `allure.properties` to specify a folder for the results.
 * Add `allure.results.directory=target/allure-results`
 * Add in package "target" create directory `allure-results`
-4. In right menu Maven "m" need to install Allure - Plugins - allure - allure:install - allure:report
+4. In right menu Maven "m" need to install Allure: Plugins - allure - allure:install - allure:report
 
 ## 🚀Getting started:
 
