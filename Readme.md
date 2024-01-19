@@ -60,5 +60,3 @@
 
 - My GitHub - [`👉click`](https://github.com/nick8787)
 - Мy Telegram - [`👉click`](https://t.me/nick8787)
-- Мy Website about testing - [`👉click`](https://www.testing87.online/)
-  ![Иллюстрация к проекту](https://www.testing87.online/img/graphics/about/testing87logohome.jpeg)
